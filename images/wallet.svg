@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="210px" height="140px" viewBox="0 0 210 140" enable-background="new 0 0 210 140" xml:space="preserve">
+<path fill="#46B2D8" d="M31.009,117.099c0,5.699,4.661,10.36,10.358,10.36h108.415c5.696,0,10.357-4.662,10.357-10.36V38.377
+	c0-5.697-4.661-10.358-10.357-10.358H41.367c-5.697,0-10.358,4.662-10.358,10.358V117.099z"/>
+<path fill="#1BA0CF" d="M160.14,38.377c0-6.347-5.411-10.377-9.801-10.377L41.367,28.019c-5.697,0-10.358,4.662-10.358,10.358v1.112
+	H160.14V38.377z"/>
+<path fill="#1BA0CF" d="M31.009,115.575v1.524c0,5.699,4.661,10.36,10.358,10.36h108.415c5.696,0,10.357-4.662,10.357-10.36v-1.524
+	H31.009z"/>
+<path fill="#179ECE" d="M31.002,82.813h46.05V70.521c0-5.223-4.234-9.456-9.455-9.456H31.002V82.813z"/>
+<path fill="#7FCAE4" d="M21.601,82.707c0,4.547,3.686,8.234,8.234,8.234h39.118c4.549,0,8.234-3.687,8.234-8.234V71.999
+	c0-4.548-3.686-8.234-8.234-8.234H29.835c-4.549,0-8.234,3.687-8.234,8.234V82.707z"/>
+<circle fill="#FFFFFF" cx="62.211" cy="77.009" r="8.184"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M187.381,131.265c0,4.824-10.913,8.735-24.376,8.735c-13.465,0-24.379-3.911-24.379-8.735
+			c0-1.712-0.602-7.329,0.292-8.077c3.815-3.177,15.403-0.658,24.087-0.658c10.836,0,20.812-3.058,23.983,0.449
+			C187.757,123.828,187.381,130.324,187.381,131.265z"/>
+	</defs>
+	<use xlink:href="#SVGID_1_"  overflow="visible" fill="#B8B9BC"/>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<rect x="181.924" y="118.47" clip-path="url(#SVGID_2_)" fill="#E8E8E8" width="2.409" height="22.88"/>
+	<rect x="154.228" y="125.695" clip-path="url(#SVGID_2_)" fill="#E8E8E8" width="4.816" height="20.472"/>
+</g>
+<ellipse fill="#E1E1E1" cx="163.003" cy="124.548" rx="24.377" ry="8.735"/>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M183.899,121.351c0,4.824-10.915,8.733-24.378,8.733s-24.376-3.909-24.376-8.733
+			c0-1.714-0.604-7.331,0.292-8.076c3.814-3.179,15.402-0.66,24.084-0.66c10.838,0,20.815-3.056,23.985,0.448
+			C184.276,113.913,183.899,120.411,183.899,121.351z"/>
+	</defs>
+	<use xlink:href="#SVGID_3_"  overflow="visible" fill="#B8B9BC"/>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<rect x="142.185" y="114.858" clip-path="url(#SVGID_4_)" fill="#E8E8E8" width="4.817" height="21.675"/>
+	<rect x="178" y="109" clip-path="url(#SVGID_4_)" fill="#E8E8E8" width="3" height="22"/>
+</g>
+<ellipse fill="#E1E1E1" cx="159.522" cy="114.633" rx="24.377" ry="8.736"/>
+<g>
+	<defs>
+		<path id="SVGID_5_" d="M188.308,110.875c0,4.825-10.913,8.736-24.376,8.736c-13.466,0-24.381-3.911-24.381-8.736
+			c0-1.713-0.603-7.33,0.294-8.076c3.814-3.179,15.403-0.66,24.087-0.66c10.835,0,20.812-3.057,23.983,0.448
+			C188.684,103.437,188.308,109.934,188.308,110.875z"/>
+	</defs>
+	<use xlink:href="#SVGID_5_"  overflow="visible" fill="#B8B9BC"/>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<rect x="145.798" y="105.224" clip-path="url(#SVGID_6_)" fill="#E8E8E8" width="7.225" height="20.471"/>
+	<rect x="183.128" y="100.407" clip-path="url(#SVGID_6_)" fill="#E8E8E8" width="2.409" height="20.471"/>
+</g>
+<path fill="#E1E1E1" d="M188.308,104.159c0,4.824-10.913,8.734-24.376,8.734c-13.466,0-24.381-3.91-24.381-8.734
+	c0-4.825,10.915-8.736,24.381-8.736C177.395,95.422,188.308,99.334,188.308,104.159z"/>
+<g>
+	<defs>
+		<path id="SVGID_7_" d="M184.307,100.634c0,4.824-10.913,8.734-24.378,8.734c-13.463,0-24.379-3.91-24.379-8.734
+			c0-1.713-0.6-7.33,0.294-8.076c3.817-3.177,15.403-0.66,24.085-0.66c10.838,0,20.814-3.056,23.987,0.448
+			C184.683,93.196,184.307,99.693,184.307,100.634z"/>
+	</defs>
+	<use xlink:href="#SVGID_7_"  overflow="visible" fill="#B8B9BC"/>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<rect x="178" y="87" clip-path="url(#SVGID_8_)" fill="#E8E8E8" width="3" height="22"/>
+	<rect x="151.818" y="94.386" clip-path="url(#SVGID_8_)" fill="#E8E8E8" width="4.817" height="20.472"/>
+</g>
+<ellipse fill="#E1E1E1" cx="159.928" cy="93.917" rx="24.378" ry="8.734"/>
+</svg>

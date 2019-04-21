@@ -32,6 +32,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!-- End of Bootstrap core CSS -->
 
    <!-- start Mixpanel -->
    <script type="text/javascript">(function(c,a){if(!a.__SV){var b=window;try{var d,m,j,k=b.location,f=k.hash;d=function(a,b){return(m=a.match(RegExp(b+"=([^&]*)")))?m[1]:null};f&&d(f,"state")&&(j=JSON.parse(decodeURIComponent(d(f,"state"))),"mpeditor"===j.action&&(b.sessionStorage.setItem("_mpcehash",f),history.replaceState(j.desiredHash||"",c.title,k.pathname+k.search)))}catch(n){}var l,h;window.mixpanel=a;a._i=[];a.init=function(b,d,g){function c(b,i){var a=i.split(".");2==a.length&&(b=b[a[0]],i=a[1]);b[i]=function(){b.push([i].concat(Array.prototype.slice.call(arguments,
@@ -60,15 +61,15 @@ mixpanel.init("31bae2309870adf254c199cd906244ae", {debug:true});</script>
 
 	        <div class="collapse navbar-collapse" id="navbarResponsive">
 	        	<ul class="navbar-nav ml-auto">
-	            	<!-- <li class="nav-item  justify-content-center">
-	              		<a class="nav-link js-scroll-trigger" href="#about">About</a>
-	            	</li> -->
+	            	<li class="nav-item p-2 justify-content-center">
+	              		<a class="nav-link js-scroll-trigger" href="#about" style=" border-right: dotted .05rem; padding-right: 1rem; border-color: rgba(255,255,255,.5); color: white; ">About</a>
+	            	</li>
 	            	
-	            	<li class="nav-item mr-2 mb-2">
-		          		<a href="https://kefa.typeform.com/to/t3CgvI" class="nav-link btn btn-outline-success navbar-btn" style="border-color: white; color: white; ">Begin survey</a> <!--Blue in color -->
+	            	<li class="nav-item p-2">
+		          		<a href="https://kefa.typeform.com/to/t3CgvI" class="nav-link navbar-btn" style=" border-right: dotted .05rem; padding-right: 1rem; border-color: rgba(255,255,255,.5); color: white; ">Investors</a> 
 		          	</li>
-		          	<li class="nav-item"> 
-		    			<a href="#contacts" class="nav-link btn btn-info navbar-btn" style="background: #5e72e4; box-shadow: .2rem .2rem .2rem  black; color: white">Contact us for feedback </a> <!--green in color -->
+		          	<li class="nav-item p-2"> 
+		    			<a href="#contacts" class="nav-link navbar-btn" style="/*background: #28a745; */color: white">Contact us</a> 
 	    			</li>
 	          	</ul>
 	        </div>
@@ -80,23 +81,22 @@ mixpanel.init("31bae2309870adf254c199cd906244ae", {debug:true});</script>
 	<!-- Front page section -->
 	<section>
 		<!-- We start with the Front page image and overlay div -->
-		<div id="#homepage" class="img-fluid" style=" background:linear-gradient(rgba(39, 174, 96,0.9), rgba(22, 160, 133,0.8)),url(./images/worldMap.jpg); background-size: cover; background-position: top center; background-repeat: no-repeat;"> 
-			
+		<div id="#homepage" class="img-fluid" style=" background:linear-gradient(rgba(22, 160, 133,1), rgba(39, 174, 96,0.8)),url(./images/apartment-architecture.jpg); background-size: cover; background-position: top center; background-repeat: no-repeat;"> 	
 			<!-- Main content -->
 			<div id="main_content" class="d-lg-flex align-items-center " style="height:;">
 				<div class="container mt-8">
-					<div class="row justify-content-lg-between align-items-lg-center">
-						<div class="col-lg-6 text-left mb-7" style="color: white">
+					<div class="row justify-content-lg-center align-items-lg-center">
+						<div class="col-lg-8 text-center mb-7" style="color: white">
 							<!-- <h2 class="display-5 text-left mt-5 align-middle" style="color: #43464b;"> -->
-							<h2 class="display-4 text-left mt-5 mb-3 align-middle" style="font-size:2.5em;">
-								<strong>Extending credit services in Africa</strong>
+							<h2 class="display-4 text-center mt-5 mb-3 align-middle" style="font-size:2.5em;">
+								<strong>Are you looking to improve or complete your home and need financing?</strong>
 								<!-- <strong>Connecting lending agencies to deserving unbanked population in Africa</strong> -->
 							</h2>
 							
-							<p class="lead">we're looking to better understand and solve major painpoints facing lending institutions in reaching the unbanked population in Africa. </p>
+							<p class="lead">we help you finance upto 70% of the cost of refining your house and re-pay later at affordable rates </p>
 
 							<div class="pt-4">
-								<a href="https://kefa.typeform.com/to/t3CgvI" class="btn btn-success p-3 pr-3 pl-3" style="font-weight: 600; box-shadow: .3rem .3rem .1rem .1rem rgba(0,0,0,0.5)">GIVE US YOUR FEEDBACK</a>
+								<a href="https://kefa.typeform.com/to/t3CgvI" class="btn btn-success p-2 pr-5 pl-5" style="font-weight: 600; box-shadow: .3rem .3rem .1rem .1rem rgba(0,0,0,0.5); background-color: #da552f; border-color: #da552f;">SIGN UP TO GET A LOAN</a>
 								<!-- <a class="btn btn-outline-secondary p-2 pr-3 pl-3" style="border-color: white; color: white;">Take survey</a>  -->
 							</div>
 						</div>
@@ -209,8 +209,8 @@ mixpanel.init("31bae2309870adf254c199cd906244ae", {debug:true});</script>
 		<footer class="footer">
 			<div class="container">
 				<div class="row align-items-center justify-content-md-between pt-5 pb-5">
-					<div class="col-md-6 " style="color: #909090">&#169 Africonnect</div>
-					<div class="col-md-6 " style="color: #909090">helping financial institutions reach the unbanked population in Africa</div>
+					<div class="col-md-6 " style="color: #909090">&#169 Africredit</div>
+					<div class="col-md-6 " style="color: #909090">helping you finance your home improvement needs</div>
 				</div>
 			</div>
 		</footer>
